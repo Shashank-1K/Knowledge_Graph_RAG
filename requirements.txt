@@ -1,0 +1,7 @@
+streamlit
+nest-asyncio==1.6.0
+llama-index-core==0.14.14
+llama-index-llms-ollama==0.9.1
+llama-index-embeddings-ollama==0.8.6
+llama-index-graph-stores-memgraph==0.4.1
+neo4j==5.28.3
